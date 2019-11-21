@@ -1,0 +1,16 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+    background-color: antiquewhite;
+    padding: 20px 30px;
+    max-width: 940px;
+    margin: auto;
+    overflow: auto;
+}
+
+form.form {
+    position: relative;
+    right: 30px;
+}
